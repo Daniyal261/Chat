@@ -1,0 +1,116 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AWSAutoScaling (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSCloudWatch (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSCognito (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSCore (2.4.9)
+  - AWSDynamoDB (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSEC2 (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSElasticLoadBalancing (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSKinesis (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSLambda (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSMachineLearning (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSMobileAnalytics (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSS3 (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSSES (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSSimpleDB (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSSNS (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSSQS (2.4.9):
+    - AWSCore (= 2.4.9)
+  - Crashlytics (3.8.2):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.9)
+  - GoogleMaps (2.1.0):
+    - GoogleMaps/Maps (= 2.1.0)
+  - GoogleMaps/Base (2.1.0)
+  - GoogleMaps/Maps (2.1.0):
+    - GoogleMaps/Base (= 2.1.0)
+  - JSQMessagesViewController (7.3.4):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - MBProgressHUD (1.0.0)
+  - Socket.IO-Client-Swift (8.0.2)
+
+DEPENDENCIES:
+  - AFNetworking
+  - AWSAutoScaling
+  - AWSCloudWatch
+  - AWSCognito
+  - AWSCore
+  - AWSDynamoDB
+  - AWSEC2
+  - AWSElasticLoadBalancing
+  - AWSKinesis
+  - AWSLambda
+  - AWSMachineLearning
+  - AWSMobileAnalytics
+  - AWSS3
+  - AWSSES
+  - AWSSimpleDB
+  - AWSSNS
+  - AWSSQS
+  - Crashlytics
+  - Fabric
+  - GoogleMaps
+  - JSQMessagesViewController
+  - JSQSystemSoundPlayer
+  - MBProgressHUD
+  - Socket.IO-Client-Swift
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AWSAutoScaling: db455510604d311d56372f27216f12e5ca0d71d6
+  AWSCloudWatch: 43535be0a8dfe78b22ab53d626ca2135cc90788e
+  AWSCognito: 4fa9fefcadae1d8425b01cbde27d564c21e3fd35
+  AWSCore: 175208358b95492e0ebe0337df2ab415300bddac
+  AWSDynamoDB: ba9d90dd6d632197bf24baad824fa918568ba8e6
+  AWSEC2: 4ceee85ec34624e5ff4eeca4f3b6ed6e689ce30d
+  AWSElasticLoadBalancing: bc9800111813fc5a904e0ae570edd88b4d9825fe
+  AWSKinesis: 3a1a27ff270fd4c83760e68889a8f53e49ce2c7e
+  AWSLambda: 5cfb825a83acbfd6b62a6cf109f9c73896f5cc7a
+  AWSMachineLearning: adaf463d7e243b411d352ddc326a63cab855319d
+  AWSMobileAnalytics: ff4619920aa962d6b3f89b5d2c780f9293605a35
+  AWSS3: e4959b48db48d5f3dcd5cdf9e24a07f60a313611
+  AWSSES: 6036226ee4c88cefeb7b70441a5021e229dd62ff
+  AWSSimpleDB: 9e2a1fac8d1df350408f323b9e32b51813aae67a
+  AWSSNS: 85513f30d76556ff43bc0772e65f1a74008a488f
+  AWSSQS: 1d1cb2e41bf0e303d15a3decb3a080782dacb9c8
+  Crashlytics: 27acca95a01b042a8294291dd6dff27f8f6af6d7
+  Fabric: bc5bec42cef4bcf1ee3ce0e218fc518e4b44dfbb
+  GoogleMaps: 06589b9a38097bce0cd6e90f0fd9b5e4b4a9344c
+  JSQMessagesViewController: 39fed975e3c9f8eba7292071e29eeb541d105e66
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  Socket.IO-Client-Swift: 136598e4a81a42b0e6855e7f94a0e5a6efdc5ff8
+
+PODFILE CHECKSUM: 890779e055c5df967fa94275edf6502fd7f01916
+
+COCOAPODS: 1.0.1
